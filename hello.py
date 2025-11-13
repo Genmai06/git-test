@@ -34,7 +34,7 @@ def main() -> None:
         message = greet(name)
         print(message)
     else:
-        print("名前が入力されませんでした。")
+        print("名前が入力されませんでしたあああ；；。")
 
 
 if __name__ == "__main__":
